@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
+import './index.css';
+// import App from './App'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
@@ -10,8 +11,47 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+
+
+
+
+
+
+
+
+// import react from "react";
+// import reactDom from 'react-dom'
+
+
+// class Myclass extends react.Component{
+//   render(){
+//     return (
+//       <>
+//       <h1>hello world</h1>
+//       <h2>helloo</h2>
+//       </>
+//     )
+//   }
+// }
+
+
+// function Myclass(){
+//   return (
+//     <>
+//     <h1>NIMOOOO</h1>
+//     <h1>ESHOOOO</h1>
+//     </>
+//   )
+//   }
+
+// reactDom.render(
+//   <>
+//   <Myclass />
+
+//   </>,
+//   document.getElementById("root")
+// )
+

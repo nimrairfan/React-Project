@@ -1,0 +1,33 @@
+.mainHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.headdiv{
+    padding:  10px 100px;
+    background-color:#EAE7E8;
+    /* height: 90px; */
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+}
+.navlink ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+.navlink li a{
+    text-decoration: none;
+    margin: 0 40px;
+    /* font-weight: bold; */
+    color: rgba(0, 0, 0, 0.719);
+    font-family: monospace;
+    font-size: 20px;
+}
+.ban2div{
+    display: flex;
+}
+.head1{
+    color: #7A6666;
+}

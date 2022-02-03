@@ -1,0 +1,26 @@
+.mainbandiv{
+    background-color:#EAE7E8;
+    padding: 0 50px;
+}
+.divtext{
+    width: 50%;
+    padding: 20px 0 0 100px;
+    line-height: 250%;
+    font-size: 15px;
+}
+.ban2img{
+    padding: 20px 0 0 100px;
+    width: 50%;
+    
+}
+.pinktext{
+    color: #E32A62;
+    font-weight: bold;
+    font-size: 30px;
+}
+.banner{
+    width: 100%;
+}
+.color-link{
+    color: #7a6666;
+}
